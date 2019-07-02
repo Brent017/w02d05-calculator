@@ -1,0 +1,76 @@
+.operator {
+	background-color: #46c9f5;
+	font-weight: bold;
+}
+
+.number {
+	background-color: #0000ff;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.button {
+	height: 40px;
+  	border: 1px solid 'black';
+  	border-radius: 40px;
+  	text-align: center;
+  	padding: 5%;
+  	font-size: 2em;
+}
+
+#decimal {
+	background-color: #0000ff;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#equals {
+	background-color: #54d7b6;
+	font-weight: bold;
+}
+
+
+#clear {
+	background-color: #e16161;
+	font-weight: bold;
+}
+
+
+.row{
+	display: table;
+	table-layout: fixed;
+	width: 400px;
+	margin: 4px;
+}
+
+.column{
+	display: table-cell;
+}
+
+.screen {
+	box-shadow: #80B2FF 0px 1px 1px 0px inset;
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 4em;
+	height: 60px;
+	text-align: right;
+	padding: 0;
+	border: 2px solid black;
+	padding: 10px 10px;
+	border-radius: 20px;
+	margin: 10px;
+
+}
+
+#calculator {
+	border: 3px solid black;
+	border-radius: 10px;
+	width: 410px;
+	height: 600px;
+	background-color: #6889da;
+
+}
+
+
+
+
